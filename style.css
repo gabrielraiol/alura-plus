@@ -136,6 +136,15 @@ body {
     margin-bottom: 1.5rem;
 }
 
+.rodape__lista__link {
+    color: var(--cor-titulo);
+    text-decoration: none;
+}
+
+.rodape__lista__link:hover {
+    color: var(--cor-botao-azul);
+}
+
 .rodape__informacoes {
     font-size: 0.875rem;
     color: var(--cor-subtitulo);
