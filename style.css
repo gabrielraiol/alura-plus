@@ -178,6 +178,10 @@ body {
         text-align: center;
     }
 
+    .container__botao {
+        width: 70%;
+    }
+
     .secundario {
         margin: 0;
         text-align: center;
